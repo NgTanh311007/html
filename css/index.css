@@ -1,17 +1,26 @@
 p {
-    color: black;
+    color: white;
 }
 
 .first-heading {
-    color: black;
+    color: white;
     font-size: 20px;
 }
 
-header {
+body {
     background-image: url("../images/slide_test2.jpg");
-    color: red;
+    color: white;
 }
 
 h1 {
-    color: black;
+    color: white;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+
+#first-heading{
+    color:orange;
+    font-size: 30px;
 }
