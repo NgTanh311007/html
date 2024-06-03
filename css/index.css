@@ -1,0 +1,17 @@
+p {
+    color: black;
+}
+
+.first-heading {
+    color: black;
+    font-size: 20px;
+}
+
+header {
+    background-image: url("../images/slide_test2.jpg");
+    color: red;
+}
+
+h1 {
+    color: black;
+}
