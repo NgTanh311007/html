@@ -9,6 +9,8 @@ p {
 
 body {
     background-image: url("../images/slide_test2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
     color: white;
 }
 
@@ -16,11 +18,36 @@ h1 {
     color: white;
     font-size: 30px;
 }
-p{
+
+p {
     font-size: 20px;
 }
 
-#first-heading{
-    color:orange;
-    font-size: 30px;
+#second-heading {
+    color: white;
+    font-size: 25px;
+    background-color: #ff6600;
+    padding-top: 7px;
+    padding-right: 11px;
+    padding-bottom: 7px;
+    padding-left: 11px;
 }
+
+ul {
+    background-image: url("../logo.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+
+.thirsthead {    
+    font-size: 25px;
+    color: white;
+    background-color: rgba(255, 253, 253, 0.137);
+    padding-top: 7px;
+    padding-right: 11px;
+    padding-bottom: 7px;
+    padding-left: 11px;
+}
+    h1{
+        font-size: 50px;
+    }
